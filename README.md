@@ -2,7 +2,7 @@
     <img align='left' alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
 </a>
 
-![Custom Badge](https://img.shields.io/badge/Views-1000%2B-green)
+![Custom Badge](https://img.shields.io/badge/Views-1500%2B-blue)
 
 # TE_IT_DSBDA_ASSIGNMENTS_SPPU
 
