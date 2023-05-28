@@ -1,0 +1,13 @@
+Node,ID,Relationship,LineX,LineY,CircleY
+Private,,T-1,3,3,3
+Farming-fishing,1,T-1,1,0,0
+Private,,T-2,3,3,3
+Craft-repair,2,T-2,3,0,0
+Private,,T-3,3,3,3
+Exec-managerial,3,T-3,5,0,0
+Private,,T-4,3,3,3
+Transport-moving,4,T-4,7,0,0
+Private,,T-5,3,3,3
+Handlers-cleaners,5,T-5,9,0,0
+Private,,T-6,3,3,3
+Sales,6,T-6,11,0,0
