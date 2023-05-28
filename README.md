@@ -84,3 +84,8 @@ To run the code in these assignments, you need to have Python installed on your 
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use the code and materials for educational purposes or personal projects.
 
+## Contact
+If you have any questions or suggestions, please feel free to contact:
+Email:
+* **[Ranjeet](mailto:contact.ranjeetkumbhar@gmail.com) - contact [dot] ranjeetkumbhar [at] gmail [dot] com**
+
