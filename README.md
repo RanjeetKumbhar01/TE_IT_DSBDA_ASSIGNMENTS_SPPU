@@ -4,8 +4,10 @@
 
 ![Custom Badge](https://img.shields.io/badge/Views-1500%2B-blue)
 
-# TE_IT_DSBDA_ASSIGNMENTS_SPPU
+# Third Year Information Technology (2019 Course) - 314457: DS & BDA Lab
 
+## Introduction
+This repository contains the lab assignments and projects for the DS & BDA (Data Science and Big Data Analytics) Lab course, which is part of the third-year Information Technology curriculum for the 2019 batch.
 ## Group B: Assignments based on Data Analytics using Python
 
 
@@ -80,5 +82,5 @@ To run the code in these assignments, you need to have Python installed on your 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). Feel free to use the code and materials for educational purposes or personal projects.
 
