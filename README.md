@@ -1,13 +1,15 @@
 <a href="https://github.com/wervlad/customer-churn-prediction/blob/main/LICENSE">
-    <img alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
+    <img align='left' alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
 </a>
+
+![Custom Badge](https://img.shields.io/badge/Views-1500%2B-blue)
 
 # TE_IT_DSBDA_ASSIGNMENTS_SPPU
 
 ## Group B: Assignments based on Data Analytics using Python
 
 
-## Assignment 1: Facebook Metrics Data Analysis
+### Assignment 1: Facebook Metrics Data Analysis
 
 In this assignment, we work with the Facebook metrics dataset and perform the following operations:
 
@@ -23,7 +25,7 @@ In this assignment, we work with the Facebook metrics dataset and perform the fo
 
 6. Visualize the data: We use Python libraries such as Matplotlib and Seaborn to plot graphs and visualize the data.
 
-## Assignment 2: Air Quality and Heart Diseases Data Analysis
+### Assignment 2: Air Quality and Heart Diseases Data Analysis
 
 In this assignment, we work with the Air Quality and Heart Diseases datasets and perform the following operations:
 
@@ -40,12 +42,12 @@ In this assignment, we work with the Air Quality and Heart Diseases datasets and
 6. Visualize the data: We use Python libraries such as Matplotlib and Seaborn to plot graphs and visualize the data.
 
 
-## Assignment 4: Data Visualization using Python libraries matplotlib,seaborn
+### Assignment 4: Data Visualization using Python libraries matplotlib,seaborn
 
 Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs for assignment
 no. 2 and 3 ( Group B)
 
-## Assignment 5: Data Visualization using Tableau
+### Assignment 5: Data Visualization using Tableau
 
 In this assignment, we work with the Adult and Iris datasets and perform the following data visualization operations using Tableau:
 
@@ -63,6 +65,11 @@ In this assignment, we work with the Adult and Iris datasets and perform the fol
 
 7. Network Data Visualization: We visualize network or graph data using techniques such as node-link diagrams, force-directed layouts, or chord diagrams.
 
+
+## Group C: Model Implementation
+
+### Assignment 1: 
+Create a review scrapper for any ecommerce website to fetch real time comments, reviews, ratings, comment tags, customer name using Python.
 ## Usage
 
 Each assignment is organized into separate folders, and within each folder, you will find the necessary files and code for that assignment. Feel free to explore the code and datasets provided.
