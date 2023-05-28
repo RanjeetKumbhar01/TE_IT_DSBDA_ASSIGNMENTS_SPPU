@@ -1,5 +1,8 @@
+<a href="https://github.com/wervlad/customer-churn-prediction/blob/main/LICENSE">
+    <img alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
+</a>
+
 # TE_IT_DSBDA_ASSIGNMENTS_SPPU
-TE_IT_DSBDA_ASSIGNMENTS_SPPU
 
 ## Group B: Assignments based on Data Analytics using Python
 
