@@ -1,17 +1,19 @@
 <a href="https://github.com/wervlad/customer-churn-prediction/blob/main/LICENSE">
-    <img align='left' alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
+    
+<img align='left' alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
 </a>
 
 ![Custom Badge](https://img.shields.io/badge/Views-1500%2B-blue)
 
 # Third Year Information Technology (2019 Course) - 314457: DS & BDA Lab
 
-## Introduction
+## **Introduction**
 This repository contains the lab assignments and projects for the DS & BDA (Data Science and Big Data Analytics) Lab course, which is part of the third-year Information Technology curriculum for the 2019 batch.
-## Group B: Assignments based on Data Analytics using Python
 
+## **Group B: Assignments based on Data Analytics using Python**
+<hr>
 
-### Assignment 1: Facebook Metrics Data Analysis
+### **Assignment 1: Facebook Metrics Data And Adult Data Analysis**
 
 In this assignment, we work with the Facebook metrics dataset and perform the following operations:
 
@@ -27,7 +29,7 @@ In this assignment, we work with the Facebook metrics dataset and perform the fo
 
 6. Visualize the data: We use Python libraries such as Matplotlib and Seaborn to plot graphs and visualize the data.
 
-### Assignment 2: Air Quality and Heart Diseases Data Analysis
+### **Assignment 2: Air Quality and Heart Diseases Data Analysis**
 
 In this assignment, we work with the Air Quality and Heart Diseases datasets and perform the following operations:
 
@@ -44,13 +46,11 @@ In this assignment, we work with the Air Quality and Heart Diseases datasets and
 6. Visualize the data: We use Python libraries such as Matplotlib and Seaborn to plot graphs and visualize the data.
 
 
-### Assignment 4: Data Visualization using Python libraries matplotlib,seaborn
+### **Assignment 4: Data Visualization (Heart Data, Tips Data, AirQuality Data)**
 
-Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs for assignment
-no. 2 and 3 ( Group B)
+Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs.
 
-### Assignment 5: Data Visualization using Tableau
-
+### **Assignment 5: Data Visualization using Tableau**
 In this assignment, we work with the Adult and Iris datasets and perform the following data visualization operations using Tableau:
 
 1. 1D (Linear) Data Visualization: We visualize data along a single dimension using techniques such as bar charts, histograms, or box plots.
@@ -68,23 +68,24 @@ In this assignment, we work with the Adult and Iris datasets and perform the fol
 7. Network Data Visualization: We visualize network or graph data using techniques such as node-link diagrams, force-directed layouts, or chord diagrams.
 
 
-## Group C: Model Implementation
+## **Group C: Model Implementation**
+<hr>
 
-### Assignment 1: 
+### **Assignment 1**
 Create a review scrapper for any ecommerce website to fetch real time comments, reviews, ratings, comment tags, customer name using Python.
-## Usage
+## **Usage**
 
 Each assignment is organized into separate folders, and within each folder, you will find the necessary files and code for that assignment. Feel free to explore the code and datasets provided.
 
-## Requirements
+## **Requirements**
 
 To run the code in these assignments, you need to have Python installed on your system along with the required libraries and dependencies. Make sure to install the necessary packages mentioned in the assignment files. For Tableau, you will need to have Tableau software installed on your machine.
 
-## License
+## **License**
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use the code and materials for educational purposes or personal projects.
 
-## Contact
+## **Contact**
 If you have any questions or suggestions, please feel free to contact:
 Email:
 * **[Ranjeet](mailto:contact.ranjeetkumbhar@gmail.com) - contact [dot] ranjeetkumbhar [at] gmail [dot] com**
