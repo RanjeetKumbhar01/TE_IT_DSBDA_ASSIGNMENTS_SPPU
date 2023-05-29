@@ -13,7 +13,7 @@ This repository contains the lab assignments and projects for the DS & BDA (Data
 ## **Group B: Assignments based on Data Analytics using Python**
 <hr>
 
-### **Assignment 1: Facebook Metrics Data And Adult Data Analysis**
+### **Assignment 1:** [**Facebook Metrics Data And Adult Data Analysis**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_B/B_1)
 
 In this assignment, we work with the Facebook metrics dataset and perform the following operations:
 
@@ -29,7 +29,7 @@ In this assignment, we work with the Facebook metrics dataset and perform the fo
 
 6. Visualize the data: We use Python libraries such as Matplotlib and Seaborn to plot graphs and visualize the data.
 
-### **Assignment 2: Air Quality and Heart Diseases Data Analysis**
+### **Assignment 2:** [**Air Quality and Heart Diseases Data Analysis**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_B/B_2)
 
 In this assignment, we work with the Air Quality and Heart Diseases datasets and perform the following operations:
 
@@ -46,11 +46,11 @@ In this assignment, we work with the Air Quality and Heart Diseases datasets and
 6. Visualize the data: We use Python libraries such as Matplotlib and Seaborn to plot graphs and visualize the data.
 
 
-### **Assignment 4: Data Visualization (Heart Data, Tips Data, AirQuality Data)**
+### **Assignment 4:** [**Data Visualization On Dataset (Heart, Tips, AirQuality)**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_B/B_4)
 
-Visualize the data using Python libraries matplotlib,seaborn by plotting the graphs.
+Visualize the data using Python libraries matplotlib, seaborn by plotting the graphs.
 
-### **Assignment 5: Data Visualization using Tableau**
+### **Assignment 5:** [**Data Visualization using Tableau**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_B/B_5)
 In this assignment, we work with the Adult and Iris datasets and perform the following data visualization operations using Tableau:
 
 1. 1D (Linear) Data Visualization: We visualize data along a single dimension using techniques such as bar charts, histograms, or box plots.
@@ -71,7 +71,7 @@ In this assignment, we work with the Adult and Iris datasets and perform the fol
 ## **Group C: Model Implementation**
 <hr>
 
-### **Assignment 1**
+### **Assignment 1:** [**Web Scraping**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/blob/main/Group_C/c_1.ipynb)
 Create a review scrapper for any ecommerce website to fetch real time comments, reviews, ratings, comment tags, customer name using Python.
 ## **Usage**
 
