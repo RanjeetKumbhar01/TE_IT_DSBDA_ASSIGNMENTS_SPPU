@@ -3,7 +3,7 @@
 <img align='left' alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
 </a>
 
-![Custom Badge](https://img.shields.io/badge/Views-2000%2B-blue)
+![Custom Badge](https://img.shields.io/badge/Views-3000%2B-blue)
 
 # Third Year Information Technology (2019 Course) - 314457: DS & BDA Lab
 
