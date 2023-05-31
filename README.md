@@ -10,6 +10,38 @@
 ## **Introduction**
 This repository contains the lab assignments and projects for the DS & BDA (Data Science and Big Data Analytics) Lab course, which is part of the third-year Information Technology curriculum for the 2019 batch.
 
+## **Table of Contents**
+-  Group A: Assignments based on the Hadoop
+-  Group B: Assignments based on Data Analytics using Python
+-  Group C: Model Implementation
+
+
+## **Group A: Assignments based on the Hadoop**
+
+## **Assignment 1:** [**Single node/Multiple node Hadoop Installation**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_A/A_1)
+
+
+
+This assignment involves the installation of Hadoop on either a single node or multiple nodes. The instructions provided here will guide you through the installation process.
+
+
+## **Assignment 2:** [**MapReduce Log Processing**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_A/A_2)
+
+
+This assignment involves designing a distributed application using MapReduce (Java) to process a log file from a system. The goal is to identify the users who have logged in for the maximum period on the system.
+
+
+## **Assignment 3:** [**Flight Information System using HiveQL**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_A/A_3)
+
+
+This assignment involves using HiveQL to build a flight information system. It covers various tasks such as creating, dropping, and altering database tables, loading data into tables, inserting new values and fields, joining tables, and creating an index on the flight information table.
+
+- Creating,Dropping, and altering Database tables.
+-  Creating an external Hive table.
+-  Load table with data, insert new values and field in the table, Join tables with Hive
+-  Create index on Flight Information Table
+-  Find the average departure delay per day in 2008.
+
 ## **Group B: Assignments based on Data Analytics using Python**
 <hr>
 

@@ -1,9 +1,10 @@
 
 
 Create Database and use it
+hive>create database test
+hive>use test
 
-
-CREATEV TABLE IN HIVE
+CREATE TABLE IN HIVE
 hive> CREATE TABLE emp(eid int,name String,salary String,designation String)
     ROW FORMAT DELIMITED
     FIELDS TERMINATED BY ','
