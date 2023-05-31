@@ -14,6 +14,10 @@ This repository contains the lab assignments and projects for the DS & BDA (Data
 -  Group A: Assignments based on the Hadoop
 -  Group B: Assignments based on Data Analytics using Python
 -  Group C: Model Implementation
+-  Usage
+-  Requirements
+-  License
+-  Contact
 
 
 ## **Group A: Assignments based on the Hadoop**
