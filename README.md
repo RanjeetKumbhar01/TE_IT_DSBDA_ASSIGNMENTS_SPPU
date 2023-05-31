@@ -43,7 +43,7 @@ This assignment involves using HiveQL to build a flight information system. It c
 -  Find the average departure delay per day in 2008.
 
 ## **Group B: Assignments based on Data Analytics using Python**
-<hr>
+
 
 ### **Assignment 1:** [**Facebook Metrics Data And Adult Data Analysis**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/tree/main/Group_B/B_1)
 
@@ -101,7 +101,7 @@ In this assignment, we work with the Adult and Iris datasets and perform the fol
 
 
 ## **Group C: Model Implementation**
-<hr>
+
 
 ### **Assignment 1:** [**Web Scraping**](https://github.com/RanjeetKumbhar01/TE_IT_DSBDA_ASSIGNMENTS_SPPU/blob/main/Group_C/c_1.ipynb)
 Create a review scrapper for any ecommerce website to fetch real time comments, reviews, ratings, comment tags, customer name using Python.
