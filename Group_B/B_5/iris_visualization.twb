@@ -28,7 +28,7 @@
             <connection class='textscan' directory='D:/T.E/DSBDA/ASSI/Group_B/b_5' filename='Iris.csv' password='' server='' />
           </named-connection>
         </named-connections>
-        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0z581uz14vsb5a1biuwu91wbvhtj' name='Adult_NW1.csv' table='[Adult_NW1#csv]' type='table'>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0z581uz14vsb5a1biuwu91wbvhtj' name='Iris.csv' table='[Iris#csv]' type='table'>
           <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
             <column datatype='string' name='Node' ordinal='0' />
             <column datatype='integer' name='ID' ordinal='1' />
